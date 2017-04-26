@@ -2,7 +2,7 @@
 //  SNABCasePolicy.h
 //  SNABTest
 //
-//  Created by laizw on 2017/4/6.
+//  Created by lisheng3 on 2017/4/6.
 //  Copyright © 2017年 sina. All rights reserved.
 //
 
